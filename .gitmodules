@@ -1,0 +1,6 @@
+[submodule "recyclr-backend"]
+	path = recyclr-backend
+	url = git@github.com:vnev/recyclr-backend.git
+[submodule "recyclr-frontend"]
+	path = recyclr-frontend
+	url = git@github.com:vnev/recyclr-frontend.git
