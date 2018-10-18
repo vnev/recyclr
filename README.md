@@ -1,5 +1,5 @@
 ## recyclr - main repo
-backend + frontend submodules
+backend + frontend submodules  
 command `git submodule foreach git pull origin master` in this directory will update the submodules.
 
 ### Members
